@@ -1,8 +1,4 @@
-air-qualité
-
-Ce plugin donne la qualité de l'air en temps réel de votre ville
-
----
-
-## Multi-room
-This plugin is fully multi-room compatible.
+Citation
+Permet à A.V.A.T.A.R. de diffuser des citations directement à la voix.
+Accédez à une large bibliothèque de citations célèbres, inspirantes et philosophiques en quelques secondes grâce à une commande vocale.
+Un plugin simple et enrichissant pour apporter une touche de sagesse, de motivation et de culture à votre assistant vocal.
