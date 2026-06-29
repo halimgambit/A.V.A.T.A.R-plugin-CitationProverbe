@@ -1,6 +1,6 @@
 # CitationProverbe
 
-Permet à A.V.A.T.A.R. de diffuser des citations directement à la voix.
+Permet à A.V.A.T.A.R. de diffuser des citations directement à la voix. Aléatoire
 
 - This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
 
