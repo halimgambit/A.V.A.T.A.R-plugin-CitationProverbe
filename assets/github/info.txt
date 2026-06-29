@@ -1,8 +1,0 @@
-air-qualité
-
-Ce plugin donne la qualité de l'air en temps réel de votre ville
-
----
-
-## Multi-room
-This plugin is fully multi-room compatible.
