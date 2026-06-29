@@ -1,7 +1,0 @@
-{
-  "speech": {
-    "errorNoCitation": "Citation introuvable pour le moment.",
-    "quote": "Voici la citation du jour : $$.",
-    "errorAccess": "Je n'arrive pas à accéder au site des citations pour le moment."
-  }
-}

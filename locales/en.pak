@@ -1,7 +1,0 @@
-{
-  "speech": {
-    "errorNoCitation": "Quote not found yet.",
-    "quote": "Here is the quote of the day: $$.",
-    "errorAccess": "I can’t access the citation site right now."
-  }
-}
